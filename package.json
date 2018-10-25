@@ -1,0 +1,31 @@
+{
+  "name": "react-redux-math-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "dev-server": "webpack-dev-server"
+  },
+  "dependencies": {
+    "babel-core": "6.25.0",
+    "babel-loader": "7.1.1",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1",
+    "css-loader": "0.28.4",
+    "node-sass": "4.5.3",
+    "normalize.css": "7.0.0",
+    "react": "*",
+    "react-dom": "*",
+    "react-router-dom": "^4.3.1",
+    "redux": "*",
+    "react-redux": "*",
+    "sass-loader": "6.0.6",
+    "style-loader": "0.18.2",
+    "webpack": "3.1.0",
+    "webpack-dev-server": "2.5.1"
+  }
+}
